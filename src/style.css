@@ -17,7 +17,7 @@ body {
 
 .header {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   justify-content: space-between;
   padding: 0 var(--header-padding);
   min-height: var(--header-height);
@@ -25,10 +25,9 @@ body {
 
 .logo {
   display: block;
-  margin-top: 10px;
 }
 
-.logo img {
+.logo__img {
   height: 40px;
   width: 40px;
   display: block;
