@@ -33,10 +33,6 @@ body {
   display: block;
 }
 
-.nav {
-  align-self: center;
-}
-
 .nav__list {
   display: flex;
   margin: 0;
@@ -47,10 +43,6 @@ body {
 .nav__item {
   margin-left: 0;
   margin-right: var(--item-margin);
-}
-
-.nav__item:first-child {
-  margin-left: 0;
 }
 
 .nav__item:last-child {
