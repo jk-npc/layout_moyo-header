@@ -20,6 +20,7 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 0 var(--header-padding);
+  background-color: white;
 }
 
 .logo {
